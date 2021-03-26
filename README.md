@@ -6,7 +6,7 @@
 - [x] Grid 설정 
 - [x] href 설정 및 url 설정
 - [x] static image 넣기
-- [x] css 를 이용해 animation 넣
+- [x] css 를 이용해 animation 넣기
 
 ## 과제
 - [ ] 새로운 페이지 하나 만들기
