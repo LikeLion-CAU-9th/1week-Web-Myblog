@@ -1,5 +1,5 @@
 # My Blog
-- 나를 표현하는 자기소개가가 들어간 web page 입니다.
+- 나를 표현하는 자기소개가 들어간 web page 입니다.
 - HTML, CSS, Bootstrap 만을 이용하여 만들 수 있도록 합니다.
 
 ## 구현할 기능 목록
